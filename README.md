@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<p align="center">
-  <img src="https://github.com/ayushnandi.png" alt="Profile Picture" width="150">
-</p>
 
 ### I'm Ayush Nandi, a Passionate Developer and Problem Solver
 - 🌱 I am constantly learning new technologies and exploring different areas in programming.
