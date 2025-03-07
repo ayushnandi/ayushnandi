@@ -10,15 +10,13 @@
 
 ### GitHub Activity and Performance 📊
 - Total Commits: 1034
-- Followers: 15
-- Following: 32
 
 ### Skills and Interests ⚙️🌟
+- Java
+- Python
 - JavaScript
 - CSS
-- Python
 - HTML
-- Java
 
 ### Select Projects 🚀
 Here are some notable repositories I have worked on:
@@ -42,9 +40,9 @@ Ecommerce-Web-Spring is an e-commerce website developed using React and Spring.
 I have actively contributed to other projects and made a total of 8 open issues on GitHub. In addition, I have participated in the pull request (PR) process with 7 successful PRs. Some of my recent contributions include improving the code for a product class and adding an About page.
 
 ### Contact Information 📫
-- [Website/Portfolio](https://ayushnandi.com)
-- [Twitter](https://twitter.com/ayushcodes)
-- [Email](mailto:ayush@example.com)
+- [Website/Portfolio](https://ayushnandiportfolio.netlify.app/)
+- [Twitter](https://twitter.com/ayushnandi11)
+- [Email](mailto:sendbox827@gmail.com)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ayushnandi)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushnandi)
